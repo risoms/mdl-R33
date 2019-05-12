@@ -18,7 +18,10 @@ Attentional bias modification treatment for depression: Study protocol for a ran
 Tasks
 -----
 
-Functional Magnetic Resonance Imaging 
--------------------------------------
-* RT: Resting State (Python)
-* SART: Sustained Attention to Response Task (Python)
+Eyetracking (Eyelink)
+---------------------
+* DPB: Dotprobe (E-Prime)
+* MDPB: MacLeod Dotprobe (E-Prime)
+* EF-AS: Antisaccade (E-Prime)
+* EF-CS: CatSwitch_EPrime_HS_3.0 (E-prime)
+* EF-KT: keeptrack_eprime_2.0HS (E-prime)
