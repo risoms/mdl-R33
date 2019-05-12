@@ -1,9 +1,11 @@
 -------------------------------------------------------------------------------------------------
+
 <div class="row">
 	<a href="https://liberalarts.utexas.edu/imhr/">
 		<img src="https://risoms.github.io/mdl/docs/source/_static/img/imhr-header.png" height="auto" width="100%" max-width="400px">
 	</a>
 <div>
+
 -----------------------------------------------------------------------------------------------
 
 This package was created at [the Institute for Mental Health Research](http://mdl.psy.utexas.edu/), at [the University of Texas at Austin](http://www.utexas.edu/) by [Semeon Risom](https://semeon.io), and was developed in part from funding of NIMH grant [5R33MH109600-03](https://projectreporter.nih.gov/project_info_details.cfm?aid=9659376).
