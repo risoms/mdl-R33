@@ -1,4 +1,5 @@
 -------------------------------------------------------------------------------------------------
+
 <div class="row">
 	<a href="https://liberalarts.utexas.edu/imhr/">
 		<img src="https://risoms.github.io/mdl/docs/source/_static/img/imhr-header.png" height="auto" width="100%" max-width="400px">
